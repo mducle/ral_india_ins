@@ -20,3 +20,7 @@ Note that if you have Anaconda/miniconda installed please replace `mamba` with `
 You must use Python 3.8 (unfortunately Mantid currently only supports Python 3.8).
 You can use another environment name than `ralindia` but please replace all instance of this name with what you choose.
 The installation of `mantidworkbench` will take quite a long time (~15-30 min).
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Excitations Data Analysis Training Course Materials</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/pace-neutrons/edatc" property="cc:attributionName" rel="cc:attributionURL">M. D. Le and others</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/pace-neutrons/edatc" rel="dct:source">https://github.com/pace-neutrons/edatc</a>.
